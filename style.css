@@ -106,7 +106,8 @@ footer {
     margin-top: 100px;
     text-align: center;
     text-decoration: none;
-    color: var(--neutral-grayish-blue);
+    color: var(--accent-blue);
+    font-weight: 700;
 }
 
 footer > p > a {
